@@ -6,6 +6,7 @@ public class GitTest {
         System.out.println("hellp github!2");
         System.out.println("hellp github!3");
         System.out.println("hellp github!4 hot-fix!");
+        System.out.println(" hot-fix!2");
     }
 }
 
